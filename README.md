@@ -10,8 +10,8 @@ O jogo é um soulslike focado em parry e dodge, ambientado na cena da Batalha Fi
 
 ## Páginas
 
-- [[Cena Menu Inicial]]
-- [[Cena Jogável - A Batalha Final]]
-- [[Mecânica de Vidas]]
-- [[Cena de Créditos]]
-- [[Conceitos de Desenvolvimento de Jogos]]
+* [Menu Inicial](#)
+* [Cena Jogável](#)
+* [Mecânica de Vidas](#)
+* [Cena de Créditos](#)
+* [Conceitos do Desenvolvimento](#)
